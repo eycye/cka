@@ -1,0 +1,5 @@
+/home/eecs/eliciaye/ww_train/res18-25_025 0.025
+/home/eecs/eliciaye/ww_train/res18-25_05 0.05
+/home/eecs/eliciaye/ww_train/res18-25_075 0.075
+/home/eecs/eliciaye/ww_train/res18-25_15 0.15
+/home/eecs/eliciaye/ww_train/res18-25_2 0.2
